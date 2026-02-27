@@ -46,8 +46,11 @@ Designed with an **editorial aesthetic**: expressive typography, ink-on-paper pa
 
 ## ✦ Preview
 
-> Deploy on GitHub Pages and your live URL will be:
-> `https://your-username.github.io/inkode`
+> 🌐 **[mikibuilder.github.io/inkode](https://mikibuilder.github.io/inkode)**
+
+![Live demo badge](https://img.shields.io/badge/Live%20Demo-Visit%20Site-c8f000?style=for-the-badge&logo=github)
+
+> *Open the link, see it in action — no installs, no logins.*
 
 ---
 
